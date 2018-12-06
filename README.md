@@ -1,10 +1,10 @@
-#Desafio FullStack TOTVS
+# Desafio FullStack TOTVS
 
 Esse repositório tem como objetivo a disponibilização da minha solução proposta para o desafio.
 
 Essa solução deve abrangir:
 
-#Recursos:
+# Recursos:
 - CRUD de Usuário (api/user)
 - CRUD de Leilão (api/audiction)
 - CRUD de Lances de Leilões (api/audictionbid)
