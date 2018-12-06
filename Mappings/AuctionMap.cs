@@ -2,10 +2,10 @@ using DesafioFullStackTotvs.Models;
 
 namespace DesafioFullStackTotvs.Mappings
 {
-    public class AudictionMap : EntityTypeConfiguration<Audiction>
+    public class AuctionMap : EntityTypeConfiguration<Auction>
     {
-        public AudictionMap(){
-            ToTable("Audictions");
+        public AuctionMap(){
+            ToTable("Auctions");
 
             HasKey(x => x.Id);
 

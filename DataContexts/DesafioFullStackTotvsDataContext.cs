@@ -14,14 +14,14 @@ namespace DesafioFullStackTotvs.DataContexts
         }
 
         public DbSet<User> Users { get; set; }
-        public DbSet<Audiction> Audictions { get; set; }
-        public DbSet<AudictionBid> AudictionBids { get; set; }
+        public DbSet<Auction> Auctions { get; set; }
+        public DbSet<AuctionBid> AuctionBids { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new UserMap());
-            modelBuilder.Configurations.Add(new AudictionMap());
-            modelBuilder.Configurations.Add(new AudictionBidMap());
+            modelBuilder.Configurations.Add(new AuctionMap());
+            modelBuilder.Configurations.Add(new AuctionBidMap());
             base.OnModelCreating(modelBuilder);
         }
     }

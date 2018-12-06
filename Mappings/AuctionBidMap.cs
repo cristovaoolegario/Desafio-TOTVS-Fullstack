@@ -2,17 +2,17 @@ using DesafioFullStackTotvs.Models;
 
 namespace DesafioFullStackTotvs.Mappings
 {
-    public class AudictionBidMap : EntityTypeConfiguration<AudictionBid>
+    public class AuctionBidMap : EntityTypeConfiguration<AuctionBid>
     {
-        public AudictionBidMap(){
-            ToTable("AudictionBids");
+        public AuctionBidMap(){
+            ToTable("AuctionBids");
 
             HasKey(x => x.Id);
 
             Property(x => x.BidPrice).IsRequired();
 
             HasRequired(x => x.User);
-            HasRequired(x => x.Audiction);
+            HasRequired(x => x.Auction);
         }
     }
 }

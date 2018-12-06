@@ -6,8 +6,8 @@ Essa solução deve abrangir:
 
 # Recursos:
 - CRUD de Usuário (api/user)
-- CRUD de Leilão (api/audiction)
-- CRUD de Lances de Leilões (api/audictionbid)
+- CRUD de Leilão (api/auction)
+- CRUD de Lances de Leilões (api/auctionbid)
 
 # Telas:
 - Login/Logout

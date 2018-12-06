@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 namespace DesafioFullStackTotvs.Models {
-    public class Audiction {
+    public class Auction {
         public long Id { get; set; }
         public string Name { get; set; }
         public long InitialValue {get; set;}
