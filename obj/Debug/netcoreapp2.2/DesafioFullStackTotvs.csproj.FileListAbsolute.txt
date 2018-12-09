@@ -1,0 +1,14 @@
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/bin/Debug/netcoreapp2.2/DesafioFullStackTotvs.deps.json
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/bin/Debug/netcoreapp2.2/DesafioFullStackTotvs.runtimeconfig.json
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/bin/Debug/netcoreapp2.2/DesafioFullStackTotvs.runtimeconfig.dev.json
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/bin/Debug/netcoreapp2.2/DesafioFullStackTotvs.dll
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/bin/Debug/netcoreapp2.2/DesafioFullStackTotvs.pdb
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.csprojAssemblyReference.cache
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.csproj.CoreCompileInputs.cache
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.RazorAssemblyInfo.cache
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.RazorAssemblyInfo.cs
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.AssemblyInfoInputs.cache
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.AssemblyInfo.cs
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.RazorTargetAssemblyInfo.cache
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.dll
+/home/cristovao/Projects/desafiofullstackbackend/DesafioFullStackTotvs/obj/Debug/netcoreapp2.2/DesafioFullStackTotvs.pdb
