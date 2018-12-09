@@ -4,14 +4,16 @@ using DesafioFullStackTotvs.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DesafioFullStackTotvs.Migrations
 {
     [DbContext(typeof(DesafioFullStackTotvsDataContext))]
-    partial class DesafioFullStackTotvsDataContextModelSnapshot : ModelSnapshot
+    [Migration("20181209062052_AddJWTToken")]
+    partial class AddJWTToken
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
